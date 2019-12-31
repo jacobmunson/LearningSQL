@@ -4,10 +4,6 @@ A repository for obnoxious detail surrounding my learning of SQL.  I'll be makin
 
 Using w3schools database available online [here](https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc).
 
-## Resources
-
-- https://www.dofactory.com/sql/tutorial
-
 ## Introductory Material
 
 - SQL stands for Structured Query Language
@@ -16,3 +12,8 @@ Using w3schools database available online [here](https://www.w3schools.com/sql/t
 - A table is made up of rows and columns
 - A relational database stores tables that are related in some way
 - SQL is a language that allows you to retrieve and manipulate data in a relational database.  
+
+## Resources
+
+- https://www.dofactory.com/sql/tutorial
+- https://www.dofactory.com/sql/tutorial
