@@ -17,6 +17,12 @@ Using w3schools database available online [here](https://www.w3schools.com/sql/t
 - The four above are often referred to as CRUD (Create, Read, Update, Delete)
 - General format of the SELECT in SQL: SELECT column-names FROM table-name WHERE condition ORDER BY sort-order
     - Example:
+    
+~~~~
+test
+material
+~~~~
+
 - General format of the INSERT in SQL: INSERT table-name (column-names) VALUES column-values
 - General format of the UPDATE in SQL: UPDATE table-name SET column-name = column-values WHERE condition
 
