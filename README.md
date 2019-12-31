@@ -15,11 +15,7 @@ Using w3schools database available online [here](https://www.w3schools.com/sql/t
 - SQL keywords: SELECT, UPDATE, WHERE, ORDER BY
 - Four fundamental operations that apply to any database: read (SELECT), insert (INSERT), update (UPDATE), remove (DELETE)
 - The four above are often referred to as CRUD (Create, Read, Update, Delete)
-- General format of the CRUD:
-            - SELECT column-names 
-        FROM table-name
-        WHERE condition
-        ORDER BY sort-order
+- General format of the select in SQL: SELECT column-names FROM table-name WHERE condition ORDER BY sort-order
 
 ## Resources
 
