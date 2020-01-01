@@ -38,6 +38,12 @@ INSERT table-name (column-names)
 VALUES column-values
 ~~~~
 
+- Example:
+~~~~
+INSERT Supplier (Name, ContactName, City, Country)
+VALUES ('Oxford Trading', 'Ian Smith', 'Oxford', 'UK')
+~~~~
+
 - General format of the UPDATE in SQL: 
 ~~~~
 UPDATE table-name 
