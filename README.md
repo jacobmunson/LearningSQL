@@ -17,7 +17,7 @@ Using w3schools database available online [here](https://www.w3schools.com/sql/t
 - The four above are often referred to as CRUD (Create, Read, Update, Delete)
 
 
-#### SQL SELECT Statement
+### SQL SELECT Statement
 
 General format of the SELECT in SQL: 
 
@@ -36,8 +36,7 @@ WHERE City = 'Paris'
 ORDER BY LastName
 ~~~~
 
-
-#### SQL INSERT Statement
+### SQL INSERT Statement
 
 General format of the INSERT in SQL: 
 
@@ -53,7 +52,7 @@ INSERT Supplier (Name, ContactName, City, Country)
 VALUES ('Oxford Trading', 'Ian Smith', 'Oxford', 'UK')
 ~~~~
 
-#### SQL UPDATE Statement
+### SQL UPDATE Statement
 
 General format of the UPDATE in SQL: 
 
@@ -71,7 +70,7 @@ SET Qunatity = 2
 WHERE Id = 388
 ~~~~
 
-#### SQL DELETE Statement
+### SQL DELETE Statement
 
 General format of the DELETE in SQL:
 
