@@ -66,7 +66,7 @@ Example:
 
 ~~~~
 UPDATE OrderItem
-SET Qunatity = 2
+SET Quantity = 2
 WHERE Id = 388
 ~~~~
 
@@ -89,4 +89,4 @@ WHERE email = 'jmnsn1@gmail.com'
 ## Resources
 
 - https://www.dofactory.com/sql/tutorial
-- https://www.dofactory.com/sql/tutorial
+- https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc
