@@ -2,7 +2,7 @@
 
 A repository for obnoxious detail surrounding my learning of SQL.  I'll be making explicit queries for just about everything.
 
-Using w3schools database available online [here](https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc).
+Using w3schools database available online [here](https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc).  It uses WebSQL, which is depracated, but I'll just be using it for immediate introductory purposes, but it won't have everything we'd probably traditionally expect.  
 
 ## Introductory Material
 
