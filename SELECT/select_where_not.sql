@@ -1,0 +1,3 @@
+SELECT *
+FROM Orders
+WHERE NOT ShipperID = 2
