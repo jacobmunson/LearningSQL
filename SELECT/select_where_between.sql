@@ -1,0 +1,3 @@
+SELECT * 
+FROM OrderDetails
+WHERE Quantity BETWEEN 10 AND 20
