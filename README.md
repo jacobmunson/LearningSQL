@@ -1,3 +1,7 @@
+## Last Update
+
+As of 1/15/2020 this is done.  As intended, this served as a nice little exercise.  
+
 ## Some notes
 
 A repository for obnoxious detail surrounding my learning of SQL.  I'll be making explicit queries for just about everything.
